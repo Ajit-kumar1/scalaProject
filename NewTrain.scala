@@ -1,3 +1,3 @@
-object NewTrain {
+object NewTrain extends App{
 
 }
